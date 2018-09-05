@@ -1,0 +1,24 @@
+.container {
+  width: 100%;
+  padding: 2%;
+  cursor: pointer;
+}
+.card {
+  width: 28%;
+  margin: 2%;
+  float: left;
+  border: 1px solid lightgray;
+  box-shadow: 2px 2px 5px #33333324;
+  -moz-box-shadow: 2px 2px 5px #33333324;
+  -webkit-box-shadow: 2px 2px 5px #33333324;
+}
+.cardContent {
+  margin: 4%;
+}
+.img {
+  width: 100%;
+}
+.desc {
+  font-size: 14px;
+  color: rgba(0,0,0,0.45);
+}
